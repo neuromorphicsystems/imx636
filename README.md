@@ -71,6 +71,6 @@ If the display is choppy or lags behind real-time, the camera may be generating 
 
 4. Run `faery run`
 
-Rendered data will be placed in **renders**.
+Rendered data should appear in **renders**.
 
 See https://github.com/aestream/faery?tab=readme-ov-file#workflow for an example on how to generate a slow-motion video render.
