@@ -2,3 +2,4 @@ data/
 recordings/
 renders/
 __pycache__
+faery_script.py
