@@ -73,4 +73,4 @@ If the display is choppy or lags behind real-time, the camera may be generating 
 
 Rendered data should appear in **renders**.
 
-See https://github.com/aestream/faery?tab=readme-ov-file#workflow for an example on how to generate a slow-motion video render.
+See https://aestream.github.io/faery/batch/ for documentation and an example on how to generate slow-motion videos.
